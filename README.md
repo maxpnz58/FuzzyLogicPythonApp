@@ -28,7 +28,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/fuzzy-tip-calculator.git
+    git clone https://github.com/maxpnz58/FuzzyLogicPythonApp.git
     ```
 
 2. Перейдите в директорию проекта:
